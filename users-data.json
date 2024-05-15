@@ -1,0 +1,36 @@
+[
+  {
+    "username": "pedor",
+    "email": "pedro@email.com",
+    "password": "pedro",
+    "fdsfa": "DEWAFdf",
+    "id": "849e5cc0-e7d9-4b13-9415-218fbad7c145",
+    "registerDate": "2024-05-13T13:14:23.958Z",
+    "profile": {
+      "picture": "imageURL",
+      "bio": "user bio .....",
+      "name": "soares"
+    }
+  },
+  {
+    "username": "sadadsfads",
+    "password": "leticia123@",
+    "email": "leticia@email.com",
+    "id": "757e272b-8675-4555-87ac-ecdc060d85c3",
+    "registerDate": "2024-05-13T22:59:43.219Z",
+    "profile": {
+      "name": "soares"
+    }
+  },
+  {
+    "email": "sdfasdfds@fsfd.a",
+    "username": "fdsafds",
+    "dsafsd": "fdsfds",
+    "password": "dsfds",
+    "id": "58d322cc-4bde-4a90-8736-b8a63e4c285b",
+    "registerDate": "2024-05-15T11:41:51.338Z",
+    "profile": {
+      "picture": "dsafd"
+    }
+  }
+]
